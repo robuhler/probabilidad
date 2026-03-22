@@ -1,0 +1,21 @@
+# ==============================
+# Entorno local del subproyecto
+# ==============================
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+# ==============================
+# Archivos locales que no forman parte del repo
+# ==============================
+main.py
+spot_trigo/inbox_excel/
+
+# ==============================
+# Salidas generadas por el flujo
+# ==============================
+spot_trigo/inbox_excel/*.xlsx
+spot_trigo/normalized/*.csv
+spot_trigo/master/*.csv
+spot_trigo/reports/*.html
