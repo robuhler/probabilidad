@@ -18,3 +18,13 @@ Asienta las bases para convertirte en el Data Scientist del futuro con todo el c
 7. Convergencia y Teorema Central del límite
 
 Y todo con más de 40 horas de vídeo bajo demanda, cientos de ejercicios, tareas, talleres y trucos de los profesores para que te conviertas en un experto de la materia.
+
+## Nota sobre este repositorio
+
+La raíz de este repositorio sigue correspondiendo al material original del curso de probabilidad y variables aleatorias. Por eso en este `README.md` aparecen referencias al curso, a Udemy y a los materiales docentes.
+
+El subproyecto `trigo_prediccion/` es **independiente de ese contenido académico** y fue agregado solamente como espacio de trabajo aplicado para el proyecto de predicción del precio del trigo en Argentina.
+
+## Nuevo subproyecto aplicado
+
+Se agregó `trigo_prediccion/` como espacio de trabajo para desarrollar, desde cero y paso a paso, un proyecto de predicción del precio del trigo en Argentina con enfoque pedagógico.
